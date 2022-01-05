@@ -1,0 +1,86 @@
+*{
+    font-family: 'cwTeXYen';
+    font-weight: 700;
+}
+.background{
+background-color: #E4F0B3;
+position: absolute;
+top: 0px;
+left: 0px;
+width: 1194px;
+height: 834px;
+}
+
+.tittle{
+    color: white;
+    font-size: 52px;
+    position: absolute;
+    top: 26px;
+    left: 150px;
+}
+.lastPage{
+    position: absolute;
+    left: 27px;
+    top: 74px;    
+}
+.home{
+    position: absolute;
+    left: 1068px;
+    top: 74px;    
+}
+.teeth{
+    position: absolute;
+    left: 23px;
+    top: 168px;
+}
+.downtittle{
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    position: absolute;
+    top: 673px;
+    left: 485px;
+    letter-spacing: 1px;
+}
+.grayteeth{
+    position: absolute;
+    left: 85px;
+    top: 352.5px;
+}
+.inputtittle{
+    color: #B1C26F;
+    font-size: 45px;
+    position: absolute;
+    top: 300px;
+    left: 740px;
+    letter-spacing: 1px;
+}
+.inputtext1{
+    color: #808080;
+    font-size: 34px;
+    position: absolute;
+    top: 375px;
+    left: 740px;
+    letter-spacing: 1px;
+    width: 350px;
+    line-height: 40px;
+}
+.inputtext2{
+    color: #808080;
+    font-size: 34px;
+    position: absolute;
+    top: 505px;
+    left: 740px;
+    letter-spacing: 1px;
+    width: 450px;
+    line-height: 40px;
+}
+.inputtext3{
+    color: #B1C26F;
+    font-size: 34px;
+    position: absolute;
+    top: 505px;
+    left: 910px;
+    letter-spacing: 1px;
+    width: 450px;
+    line-height: 40px;
+}
